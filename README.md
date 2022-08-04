@@ -1,2 +1,2 @@
 # SantanderBootcamp-DIO
-Esta é a página do instagram recriada com HTML e CSS e uso fundamental do flexbox.
+Aqui estão os desafios de projeto do Santander Bootcamp Fullstack Developer
